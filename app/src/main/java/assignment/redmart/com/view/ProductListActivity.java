@@ -55,7 +55,6 @@ public class ProductListActivity extends AppCompatActivity implements ProductLis
             }
         });
 
-        avi.show();
         presenter.onLoadProduct(new Loading(avi));
     }
 
