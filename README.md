@@ -1,4 +1,6 @@
 ## ReadMart Assigment
 Using MVP Architecture with dependency on Retrofit, Okhttp, Butterknife, Glide, AVLoadingIndicatorView
-[product-list]: https://github.com/hendrosteven/redmart-assignment/blob/master/product-list.png "Product List"
-[product-detail]: https://github.com/hendrosteven/redmart-assignment/blob/master/product-detail.png "Product Detail"
+
+![product-list](https://raw.githubusercontent.com/hendrosteven/redmart-assignment/master/product-list.png)
+
+![product-detail](https://raw.githubusercontent.com/hendrosteven/redmart-assignment/master/product-detail.png)
