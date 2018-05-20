@@ -21,6 +21,7 @@ public class ProductDetailPresenter implements ProductDetailContract.Presenter {
     public ProductDetailPresenter(ProductDetailContract.View view) {
         this.view = view;
         repo = APIClient.getClient().create(ProductRepository.class);
+
     }
 
     @Override
