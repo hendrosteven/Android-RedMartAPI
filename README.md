@@ -1,3 +1,2 @@
 # redmart-assignment
-Using MVP Architecture
-Dependency : Retrofit, Okhttp, Butterknife, Glide, AVLoadingIndicatorView
+Using MVP Architecture with dependency on Retrofit, Okhttp, Butterknife, Glide, AVLoadingIndicatorView
